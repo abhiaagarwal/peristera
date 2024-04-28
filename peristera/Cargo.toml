@@ -1,0 +1,13 @@
+[package]
+name = "peristera"
+version = "0.1.0"
+description = "A high-level binding to the Fly.io Machines API"
+readme = "../README.md"
+
+authors.workspace = true
+repository.workspace = true
+license.workspace = true
+edition.workspace = true
+
+[dependencies]
+fly-machine-gen = { path = "../fly-machine-gen" }

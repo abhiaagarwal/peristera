@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = ["fly-machine-gen", "peristera"]
+
+[workspace.package]
+authors = ["Abhi Agarwal <abhiaagarwal01@gmail.com>"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
+repository = "https://github.com/abhiaagarwal/peristera"
