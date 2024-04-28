@@ -1,0 +1,5 @@
+generate:
+    cargo +nightly progenitor --input fixed_spec.json --output "." -n "fly-machine-gen" -v "1.0.0" --include-client=true --interface=builder
+
+fix:
+    python3 scripts/fix_spec.py

@@ -1,6 +1,6 @@
 [workspace]
 resolver = "2"
-members = ["fly-machine-gen", "peristera"]
+members = ["fly-machines-gen", "peristera"]
 
 [workspace.package]
 authors = ["Abhi Agarwal <abhiaagarwal01@gmail.com>"]

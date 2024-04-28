@@ -10,4 +10,7 @@ license.workspace = true
 edition.workspace = true
 
 [dependencies]
-fly-machine-gen = { path = "../fly-machine-gen" }
+fly-machines-gen = { path = "../fly-machines-gen" }
+reqwest = "0.12.4"
+thiserror = "1.0.59"
+url = "2.5.0"
