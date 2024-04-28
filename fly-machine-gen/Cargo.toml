@@ -2,7 +2,7 @@
 name = "fly-machine-gen"
 version = "1.0.0"
 description = "A low-level generated crate for the Fly.io Machines API using progenitor"
-keywords = ["fly.io", "progenitor", "generated", "openapi"]
+keywords = ["fly-io", "progenitor", "generated", "openapi"]
 categories = ["api-bindings", "web-programming::http-client"]
 readme = "README.md"
 
